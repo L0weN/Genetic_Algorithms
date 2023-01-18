@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: b63654e4a09634cf4a9406c4c69a7544
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - botPrefab: {instanceID: 0}
+  - startingPos: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
